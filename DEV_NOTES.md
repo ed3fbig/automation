@@ -22,3 +22,8 @@ Personal development log — notes, findings, and ongoing work.
 - Cleaned up old debug logs
 - Tested build on clean environment
 - Fixed off-by-one error in loop
+
+## 2026-03-23
+- Investigated performance bottleneck, noted findings
+- Noted known limitation in docs
+- Improved log message formatting
