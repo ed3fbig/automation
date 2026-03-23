@@ -17,3 +17,8 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed open issues, added labels
 - Bumped patch version
 - Added healthcheck endpoint stub
+
+## 2026-03-23
+- Cleaned up old debug logs
+- Tested build on clean environment
+- Fixed off-by-one error in loop
